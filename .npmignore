@@ -1,0 +1,4 @@
+.idea
+.idea/*
+*.md
+babel.config.json
